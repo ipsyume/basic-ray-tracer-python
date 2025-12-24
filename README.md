@@ -42,3 +42,27 @@ Below is an example output produced by the ray tracer:
 ---
 
 ## Project Structure
+basic-ray-tracer/
+│
+├── main.py
+├── README.md
+├── requirements.txt
+│
+├── images/
+│ └── basic_ray_tracer.png
+│
+└── screenshots/
+└── rendered_output.png
+
+
+---
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python main.py
+
+
+The rendered image will be saved to:
+
+images/basic_ray_tracer.png
