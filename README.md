@@ -49,7 +49,7 @@ This implementation renders scenes composed of:
 ## Rendered Output
 Below is an example output produced by the ray tracer:
 
-![Rendered Output](final_ray_tracer.png) ![Rendered Output](neural_render.png)
+![Rendered Output](final_ray_tracer.png) ![Rendered Output](neural_render.png) ![Rendered Output](hybrid_neural_render.png)
 
 
 ---
