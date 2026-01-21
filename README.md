@@ -1,6 +1,6 @@
 # Basic Ray Tracer in Python
 
-This project implements a ray tracer from scratch in Python to render 3D scenes using analytical ray–object intersections and physically inspired lighting models. The primary goal is to translate core computer graphics theory—such as geometry, illumination, and reflection—into a functioning rendering pipeline.
+This project implements a ray tracer from scratch in Python to render 3D scenes using analytical ray–object intersections and physically inspired lighting models. The primary goal is to translate core computer graphics theory; such as geometry, illumination, and reflection, into a functioning rendering pipeline.
 ---
 
 ## Overview
