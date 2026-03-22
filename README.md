@@ -3,6 +3,9 @@
 A physically-based renderer built from scratch in Python — no rendering libraries, pure NumPy math — extended with two neural rendering approaches bridging classical graphics and learned pipelines.
 
 ---
+<img width="400" height="300" alt="neural_render" src="https://github.com/user-attachments/assets/430390cd-faf7-4448-9b05-7f6763aaa168" />
+<img width="640" height="480" alt="hybrid_neural_render" src="https://github.com/user-attachments/assets/3eda24b7-0bab-41a9-b3bc-ed5967525bef" />
+<img width="640" height="480" alt="classic_ray_tracer" src="https://github.com/user-attachments/assets/d39e127f-7dc3-46d7-bd0b-dc02d7285816" />
 
 ## Renders
 
